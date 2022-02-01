@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e011dc4.css",
-    "main.js": "/static/js/main.5facbe9b.js",
-    "static/js/787.d9312eb8.chunk.js": "/static/js/787.d9312eb8.chunk.js",
-    "index.html": "/index.html",
-    "main.6e011dc4.css.map": "/static/css/main.6e011dc4.css.map",
-    "main.5facbe9b.js.map": "/static/js/main.5facbe9b.js.map",
-    "787.d9312eb8.chunk.js.map": "/static/js/787.d9312eb8.chunk.js.map"
+    "main.css": "/Felipe-Affonso047.gihub.io/static/css/main.6e011dc4.css",
+    "main.js": "/Felipe-Affonso047.gihub.io/static/js/main.215d6fa4.js",
+    "static/js/787.d9312eb8.chunk.js": "/Felipe-Affonso047.gihub.io/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/Felipe-Affonso047.gihub.io/index.html",
+    "main.6e011dc4.css.map": "/Felipe-Affonso047.gihub.io/static/css/main.6e011dc4.css.map",
+    "main.215d6fa4.js.map": "/Felipe-Affonso047.gihub.io/static/js/main.215d6fa4.js.map",
+    "787.d9312eb8.chunk.js.map": "/Felipe-Affonso047.gihub.io/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e011dc4.css",
-    "static/js/main.5facbe9b.js"
+    "static/js/main.215d6fa4.js"
   ]
 }
